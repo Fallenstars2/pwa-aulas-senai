@@ -1,0 +1,19 @@
+header {
+  background-color: aqua;
+  grid-area: cabecalho;
+}
+
+aside {
+  background-color: bisque;
+  grid-area: lado-esquerdo;
+}
+
+main {
+  background-color: blue;
+  grid-area: principal;
+}
+
+footer {
+  background-color: brown;
+  grid-area: rodape;
+}
